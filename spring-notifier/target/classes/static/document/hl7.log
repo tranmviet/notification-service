@@ -1,0 +1,70 @@
+   MSH - MSH|^~\&|HISBVDKCVC|HISBVDKCVC|PACSBVDKCVC|PACSBVDKCVC|20230128000132|CLIENT|ORM^O01||P|2.3.1
+   [ { EVN } ] (non-standard) - EVN|O01|20230128000132
+   [ { NTE } ] - Not populated
+   PIDPD1NTEPV1PV2IN1IN2IN3GT1AL1 (start)
+   [
+      PID - PID|||2000624255^^^HISBVDKCVC||BÙI VĂN DÙNG||19680101|M||Kinh|Xã Long Thuận,Huyện Hồng Ngự,Tỉnh Đồng Tháp|||||||||||||||^Vietnamese
+      [ PD1 ] - Not populated
+      [ { NTE } ] - Not populated
+      PV1PV2 (start)
+      [
+         PV1 - PV1||O|131@Khoa Cấp Cứu|||||053342/HCM-CCHN^Huỳnh Đức Thiện
+         [ PV2 ] - Not populated
+      ]
+      PV1PV2 (end)
+      IN1IN2IN3 (start)
+      [{
+         IN1 - Not populated
+         [ IN2 ] - Not populated
+         [ { IN3 } ] - Not populated
+      }]
+      IN1IN2IN3 (end)
+      [ GT1 ] - Not populated
+      [ { AL1 } ] - Not populated
+   ]
+   PIDPD1NTEPV1PV2IN1IN2IN3GT1AL1 (end)
+   ORCOBRRQDRQ1ODSODTRXONTEDG1RXRRXCNTEOBXNTECTIBLG (start)
+   {
+      ORC - ORC|NW||||IP||^^^20230128000132
+      OBRRQDRQ1ODSODTRXONTEDG1RXRRXCNTEOBXNTE (start)
+      [
+         <
+            OBR - OBR||000000004442196|000000004442196|18.0125.0028^Chụp Xquang bụng không chuẩn bị thẳng hoặc nghiêng^^18.0125.0028||20230128000132|||||||K29.1 - Viêm dạ dày cấp khác|||||000000004442196|000000004442196|PACSBVDKCVC||||CR
+         >
+         [ { ZDS } ] (non-standard) - ZDS|000000004442196
+
+         <
+            RQD - Not populated
+         |
+            RQ1 - Not populated
+         |
+            ODS - Not populated
+         |
+            ODT - Not populated
+         |
+            RXO - Not populated
+         >
+         [ { NTE } ] - Not populated
+         [ { DG1 } ] - Not populated
+         { RXR } - Not populated
+         RXCNTE (start)
+         [
+            RXC - Not populated
+            NTE - Not populated
+         ]
+         RXCNTE (end)
+         OBXNTE (start)
+         [{
+            OBX - Not populated
+            [ { NTE } ] - Not populated
+         }]
+         OBXNTE (end)
+      ]
+      OBRRQDRQ1ODSODTRXONTEDG1RXRRXCNTEOBXNTE (end)
+      [ { CTI } ] - Not populated
+      [ BLG ] - Not populated
+   }
+   ORCOBRRQDRQ1ODSODTRXONTEDG1RXRRXCNTEOBXNTECTIBLG (end)
+ORM_O01 (end)
+
+OBR - OBR||100000004679758|100000004679758|18.0119.0028^Chụp Xquang ngực thẳng^^18.0119.0028||20230308023924|||||||J02 - Viêm họng cấp|||||100000004679758|100000004679758|PACSBVDKCVC||||CR
